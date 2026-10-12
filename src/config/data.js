@@ -74,9 +74,9 @@ export const webProjectsArray = [
         img: ecommerceApp,
         title: 'E-Commerce App',
         type: 'web',
-        description: 'Fit Fables is a specialized e-commerce platform crafted with the MERN stack, designed to cater to the healthcare needs of users by offering a wide range of medicines, proteins, and wellness products. The app delivers a seamless, secure shopping experience, leveraging Redux for efficient state management and Cloudinary for fast media delivery. Fit Fables also includes a robust appointment booking system, enabling patients to consult with doctors directly through the app. The admin panel provides powerful tools for managing products, orders, and user interactions, ensuring smooth operations.',
-        ghLink: 'https://github.com/Syed-Moazzam/MERN-E-Commerce-App',
-        demoLink: 'https://mern-e-commerce-app-wsg3.onrender.com'
+        description: 'Voltix is a consumer electronics store built with the MERN stack and TypeScript, combining a customer storefront and an admin panel in one app with role-based routing after login. Shoppers can browse twelve categories, from phones and TVs to audio and wearables, with search, filters, sorting, and pagination, then check out securely through Stripe. The Express API re-prices every order on the server, and a Stripe webhook marks orders as paid and updates stock. Admins get a revenue and orders dashboard, product and category management with multi-image Cloudinary uploads, and order status tracking. The frontend uses React, Vite, and Tailwind CSS.',
+        ghLink: 'https://github.com/Syed-Moazzam/ecommerce-app-mern',
+        demoLink: 'https://ecommerce-app-mern-eml9.onrender.com'
     },
     {
         img: foodOrderingApp,
